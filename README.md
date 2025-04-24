@@ -19,4 +19,7 @@ The main goal of this project is to:
 ## 📂 File Structure
 
 - `Pizza_sales_report.sql` – The SQL script that contains all the queries for analysis.
-- `pizza sales.pdf` - It contains all the csv files used in pizzeria schema.
+- `pizzas.csv` - csv file that contains pizza type's size and prize .
+- `pizza_types.csv ` - csv file that contains pizza names with category and its ingredients.
+- `orders.csv ` - csv file that contains order_id with date and time .
+- `order_details.csv` - csv file that contains quantity and type of pizza ordered.
