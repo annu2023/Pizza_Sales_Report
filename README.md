@@ -16,6 +16,17 @@ The main goal of this project is to:
 
 - **SQL** – For querying and analyzing the data.
 
+## 🔍 What I Did
+
+- Wrote SQL queries to calculate total revenue, total orders, and average order value.
+- Identified the best-selling .
+- Analyzed sales trends .
+- Analyzed the cumulative revenue generated over time.
+- Calculated the average number of pizzas ordered per day.
+- Found peak order times during the day.
+
+These insights help understand customer preferences and improve business decisions.
+
 ## 📂 File Structure
 
 - `Pizza_sales_report.sql` – The SQL script that contains all the queries for analysis.
